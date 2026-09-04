@@ -2,8 +2,8 @@
 
 ## Student information
 
-Name: **REPLACE THIS WITH YOUR NAME**
+Name: **Junze Ke**
 
 In one sentence, what is the difference between Git and GitHub?
 
-**REPLACE THIS SENTENCE**
+**The difference between Git and GitHub is that Git is the softwore program while Github is a web service that uses Git.**
